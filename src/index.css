@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", sans-serif;
+  --font-serif: "Playfair Display", serif;
+  --color-bistro-bg: #f8f5ee;
+  --color-bistro-ochre: #e39d3a;
+  --color-bistro-red: #b73124;
+  --color-bistro-dark: #28231d;
+}
+
+html {
+  scroll-behavior: smooth;
+}
